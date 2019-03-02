@@ -9,10 +9,10 @@ Anyway you may want to perform a `find / -name *.desktop -print | grep the_app_y
 It may happen, that after you use this script, you use "Software" to make modification to folders, previous modifications will be lost.
 
 ## Sources
-- [http://www.linux-commands-examples.com/gsettings](http://www.linux-commands-examples.com/gsettings)
+- [http://www.linux-commands-examples.com/gsettings](http://www.linux-commands-examples.com/gsettings){:target="_blank"}
 
 ## Credits
-- [https://github.com/BenJetson/gnome-dash-fix/](https://github.com/BenJetson/gnome-dash-fix/)
+- [https://github.com/BenJetson/gnome-dash-fix/](https://github.com/BenJetson/gnome-dash-fix/){:target="_blank"}
 
 ## Alternatives
-- [https://github.com/maoschanz/appfolders-manager-gnome-extension/](https://github.com/maoschanz/appfolders-manager-gnome-extension/)
+- [https://github.com/maoschanz/appfolders-manager-gnome-extension/](https://github.com/maoschanz/appfolders-manager-gnome-extension/){:target="_blank"}
